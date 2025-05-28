@@ -1,6 +1,6 @@
 # Combined-Scenarios
-## Name : JAYARAJ B
-## Reg. no: 212224220011
+## Name : A CHANDHNA
+## Reg. no: 212224040051
 ## AIM:
 # 1.Solution Ideation
 Use a known UX problem (e.g., booking an appointment in a hospital app).
@@ -108,11 +108,12 @@ Home
  - Sports
 - Contact Us
 ## SCREENSHOTS:
-## USER TASK FLOW
-![Screenshot 2025-05-28 180120](https://github.com/user-attachments/assets/860d5b80-5173-44e1-ba90-7669f6bfe336)
+![image](https://github.com/user-attachments/assets/c8ae73e9-b147-4010-922f-2ecaa591c061)
+![image](https://github.com/user-attachments/assets/7f4a6c99-c001-4210-a70c-0bf77b45c908)
+![image](https://github.com/user-attachments/assets/66b70ecf-fb39-4c10-9eae-71d8566ce34b)
+![image](https://github.com/user-attachments/assets/5eaac780-d505-4c7f-93cc-272f235bb0ee)
+![image](https://github.com/user-attachments/assets/979ea6e1-9a12-42de-a445-60a634b52955)
 
-## INFORMATION ARCHITECTURE (IA) 
-![Screenshot 2025-05-28 180345](https://github.com/user-attachments/assets/6b0e0e2c-7a10-4375-8878-2beb619c631f)
 
 ## Result:
 Thus, the experiment was completed successfully.
